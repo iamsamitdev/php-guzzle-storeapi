@@ -1,0 +1,5 @@
+vendor
+.env
+.env.local
+d365_token.txt
+token.txt
